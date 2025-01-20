@@ -1,5 +1,7 @@
 <x-layouts.app>
-    show
-    <livewire:projects.show :project="$project"/>
-    <livewire:projects.proposals :project="$project"/>
+    <div class="flex justify-between gap-6">
+        <livewire:projects.show :$project />
+
+        <livewire:projects.proposals :$project />
+    </div>
 </x-layouts.app>
