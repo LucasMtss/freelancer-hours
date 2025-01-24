@@ -7,6 +7,7 @@
     <link rel="icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
     <title>{{ $title ?? config('app.name') }}</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
+    <script src="//unpkg.com/alpinejs" defer></script>
 </head>
 
 <body class="bg-[#070715] flex flex-col min-h-full text-[#C3C3D1]">

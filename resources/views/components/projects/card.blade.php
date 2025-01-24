@@ -15,7 +15,7 @@
             </div>
         </div>
         <div>
-
+            <livewire:proposals.create :$project />
         </div>
     </div>
 
