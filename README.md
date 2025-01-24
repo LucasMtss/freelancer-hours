@@ -11,25 +11,18 @@ FreelanceHours é uma aplicação onde freelancers podem enviar propostas de hor
 
 ## Tecnologias utilizadas
 
-* PHP
-* Laravel
-* Tailwind
-* SQLite
-* Livewire
-* Herd
+- PHP
+- Laravel
+- Tailwind
+- SQLite
+- Livewire
+- Herd
 
 <br>
 
 <p align="center">
   <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="80%">
 </p>
-
-## Tecnologias utilizadas
-
--   [**PHP**](https://www.php.net/): Linguagem de programação usada;
--   [**Laravel**](https://laravel.com/): Framework PHP utilizado para a estrutura e organização do projeto;
--   [**Livewire**](https://laravel-livewire.com/): Utilizado para criar interfaces dinâmicas e reativas sem sair do Laravel;
--   [**Tailwind**](https://tailwindcss.com/): Framework CSS que facilita o desenvolvimento de interfaces modernas e responsivas.
 
 ## Licença
 
